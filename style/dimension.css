@@ -17,3 +17,9 @@
 .mx-w200{
     max-width: 200px;
 }
+.w-300{
+    width: 300px;
+}
+.maxwidth-700{
+    max-width: 700px;
+}
